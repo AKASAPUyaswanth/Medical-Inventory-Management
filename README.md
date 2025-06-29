@@ -6,9 +6,9 @@
 
 
 
-================================================================================
-                        MEDICAL INVENTORY MANAGEMENT SYSTEM
-================================================================================
+
+MEDICAL INVENTORY MANAGEMENT SYSTEM
+
 
 Project Category: Salesforce  
 Skills Required: Salesforce Admin, Salesforce Developer, Apex, Flows, Reports
